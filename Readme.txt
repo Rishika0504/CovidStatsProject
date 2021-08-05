@@ -1,1 +1,2 @@
-https://github.com/Rishika0504/CovidStatsProject/blob/main/websitepic.png
+preview:
+![alt_txt]()
